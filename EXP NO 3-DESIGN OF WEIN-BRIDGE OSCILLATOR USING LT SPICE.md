@@ -35,5 +35,4 @@
 
 
 ## Result
-<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/9ecec9f2-a090-45b7-a7b9-ca620dd30335" />
-
+<img width="1054" height="1599" alt="image" src="https://github.com/user-attachments/assets/57135e28-e241-427b-b645-d03a667a327a" />

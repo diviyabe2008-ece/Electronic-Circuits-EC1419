@@ -11,10 +11,18 @@
 <img width="670" height="212" alt="image" src="https://github.com/user-attachments/assets/bc13bd31-7d40-4d98-93b6-75e3acce59f1" />
 
 
-## circuit diagram
+## Circuit Diagram
+<img width="1600" height="1037" alt="image" src="https://github.com/user-attachments/assets/65a86d72-9c93-411d-96d8-9d5516e8312a" />
 
-## graph
 
-## calculation
+## Graph
+<img width="1598" height="684" alt="image" src="https://github.com/user-attachments/assets/63beed85-93fc-42dd-9b3b-f811c9f1c2d9" />
 
-## result
+
+## Calculation
+<img width="1600" height="1028" alt="image" src="https://github.com/user-attachments/assets/f272338f-de51-4bcb-9458-2820a7b61e87" />
+
+
+## Result
+<img width="1600" height="893" alt="image" src="https://github.com/user-attachments/assets/798a7705-fcb1-40a8-b912-488369702090" />
+

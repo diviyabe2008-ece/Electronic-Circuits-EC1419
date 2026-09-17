@@ -24,5 +24,6 @@
 
 
 ## Result
-<img width="1600" height="893" alt="image" src="https://github.com/user-attachments/assets/798a7705-fcb1-40a8-b912-488369702090" />
+<img width="1102" height="1599" alt="image" src="https://github.com/user-attachments/assets/d0f088e4-a33e-4760-852c-037f9551d37b" />
+
 

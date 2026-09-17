@@ -6,8 +6,14 @@
 <img width="635" height="122" alt="image" src="https://github.com/user-attachments/assets/f0c22cf2-9ee5-459a-91cb-8538411b8ffc" />
 
 
-## Kicad circuit diagram
+## Kicad Circuit Diagram
+<img width="1600" height="1392" alt="WhatsApp Image 2026-09-17 at 9 31 52 PM" src="https://github.com/user-attachments/assets/77e75161-dc29-44e6-86a3-1189f0f1ef78" />
+
 
 ## PCB 3D view
+<img width="1600" height="1320" alt="image" src="https://github.com/user-attachments/assets/23b1e2c7-e105-464f-9c76-129a3de36d1a" />
 
-## result
+
+## Result
+<img width="1600" height="955" alt="image" src="https://github.com/user-attachments/assets/d9bc1c5f-1f62-4fd2-9728-c4785e5ee6d4" />
+

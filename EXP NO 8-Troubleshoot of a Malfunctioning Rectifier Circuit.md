@@ -6,8 +6,16 @@
 <img width="643" height="150" alt="image" src="https://github.com/user-attachments/assets/20f3fa20-64ed-4f77-bd24-223155f63f1d" />
 
 
-## tabulation
+## Tabulation
+<img width="1600" height="965" alt="WhatsApp Image 2026-09-17 at 9 58 16 PM" src="https://github.com/user-attachments/assets/d77e1924-88ac-4855-ba1d-36873ccd8db5" />
 
-## attach graph sheet
+<img width="1396" height="1601" alt="image" src="https://github.com/user-attachments/assets/9b08d626-00c9-49b7-b69b-fe8083d0f96d" />
 
-## result
+## Attach graph sheet
+<img width="1600" height="1327" alt="image" src="https://github.com/user-attachments/assets/cddc0c68-463d-4a04-abbe-2dd3d13ea272" />
+
+<img width="1174" height="1601" alt="WhatsApp Image 2026-09-17 at 10 01 07 PM" src="https://github.com/user-attachments/assets/506898c1-a620-4807-b88b-46fcedf401e4" />
+
+## Result
+<img width="1600" height="782" alt="WhatsApp Image 2026-09-17 at 9 59 26 PM" src="https://github.com/user-attachments/assets/8e7cb7af-20d2-4116-a5c2-cbd863ed510b" />
+

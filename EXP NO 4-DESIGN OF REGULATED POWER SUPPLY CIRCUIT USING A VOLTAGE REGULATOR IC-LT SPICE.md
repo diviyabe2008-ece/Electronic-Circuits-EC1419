@@ -15,5 +15,4 @@
 <img width="1410" height="1599" alt="image" src="https://github.com/user-attachments/assets/35e00424-ff85-428d-b1ab-78b65cc93c73" />
 
 ## Result
-<img width="1600" height="493" alt="image" src="https://github.com/user-attachments/assets/63821b44-ad53-4896-a042-284bf5395976" />
-
+<img width="1600" height="1230" alt="image" src="https://github.com/user-attachments/assets/f3c9fb27-4243-49e6-9a98-605639089137" />

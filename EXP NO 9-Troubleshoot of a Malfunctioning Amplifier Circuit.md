@@ -20,4 +20,4 @@
 
 
 ## Result
-<img width="1600" height="1257" alt="image" src="https://github.com/user-attachments/assets/d0f1b145-5479-4ae1-aa26-557b448e287e" />
+<img width="1060" height="1599" alt="image" src="https://github.com/user-attachments/assets/193a44b0-6de0-4cc8-b131-94661039e40a" />

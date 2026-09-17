@@ -17,4 +17,5 @@
 
 
 ## Result
-<img width="1600" height="703" alt="image" src="https://github.com/user-attachments/assets/44c63198-8828-4e95-a7b4-9ea27344f9d3" />
+<img width="1140" height="1600" alt="image" src="https://github.com/user-attachments/assets/2d4afe01-b9c6-4361-a12d-53d02a62c642" />
+

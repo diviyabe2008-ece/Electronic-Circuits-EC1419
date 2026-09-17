@@ -7,10 +7,12 @@
 <img width="613" height="121" alt="image" src="https://github.com/user-attachments/assets/676c5397-3c7c-4985-b376-2d3dbd73b1d9" />
 
 
-## tinker cad circuit diagram
+## Tinker cad circuit diagram
+<img width="1220" height="1600" alt="WhatsApp Image 2026-09-17 at 10 06 42 PM" src="https://github.com/user-attachments/assets/b3601386-8745-489c-8663-7ae461d6fc54" />
 
-## ripple factor calculation
+## Tabulation and Calculation
+<img width="1600" height="1214" alt="image" src="https://github.com/user-attachments/assets/a07bcfbf-0cd4-4d8b-9e4c-289cdd750279" />
 
-## output graph
+## Result
+<img width="1600" height="708" alt="image" src="https://github.com/user-attachments/assets/3c955e6d-275e-4028-aa80-0ce19a22b0b6" />
 
-## result

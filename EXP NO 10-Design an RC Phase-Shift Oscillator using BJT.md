@@ -8,10 +8,21 @@
 <img width="540" height="138" alt="image" src="https://github.com/user-attachments/assets/37828781-c043-496d-9cbf-caafe7d24c44" />
 
 
-## tabulation
 
-## output graph sheet
 
-## calculation
 
-## result
+## Tabulation
+<img width="1600" height="1495" alt="image" src="https://github.com/user-attachments/assets/690bae10-befa-4675-ba17-89f9c8a1c5f0" />
+
+
+## Output Graph Sheet
+<img width="1288" height="1600" alt="image" src="https://github.com/user-attachments/assets/4bcf298c-c637-446b-93e0-1dfb7476a06b" />
+
+
+## Calculation
+<img width="1600" height="1229" alt="image" src="https://github.com/user-attachments/assets/d4caf919-7b88-4209-9c2e-593ae4d89f53" />
+
+
+## Result
+<img width="1600" height="892" alt="image" src="https://github.com/user-attachments/assets/eb8c3b3e-cf78-4396-ac61-891ad359f6d4" />
+

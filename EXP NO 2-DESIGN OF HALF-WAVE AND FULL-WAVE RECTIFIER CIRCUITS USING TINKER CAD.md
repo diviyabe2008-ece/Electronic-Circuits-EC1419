@@ -8,7 +8,11 @@
 
 ## Tinker cad circuit diagram
 <img width="1220" height="1600" alt="WhatsApp Image 2026-09-17 at 10 06 42 PM" src="https://github.com/user-attachments/assets/b3601386-8745-489c-8663-7ae461d6fc54" />
+
+
 ## Tabulation and Calculation
 <img width="1600" height="1214" alt="image" src="https://github.com/user-attachments/assets/a07bcfbf-0cd4-4d8b-9e4c-289cdd750279" />
+
 ## Result
+
 <img width="1598" height="1600" alt="image" src="https://github.com/user-attachments/assets/e9d630d5-9795-461d-afed-a225891da8d5" />
